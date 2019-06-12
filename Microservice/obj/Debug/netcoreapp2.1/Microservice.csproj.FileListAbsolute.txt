@@ -1,0 +1,15 @@
+C:\Users\nafiz.rifat\Microservice\Microservice\obj\Debug\netcoreapp2.1\Microservice.csproj.CoreCompileInputs.cache
+C:\Users\nafiz.rifat\Microservice\Microservice\obj\Debug\netcoreapp2.1\Microservice.AssemblyInfoInputs.cache
+C:\Users\nafiz.rifat\Microservice\Microservice\obj\Debug\netcoreapp2.1\Microservice.AssemblyInfo.cs
+C:\Users\nafiz.rifat\Microservice\Microservice\bin\Debug\netcoreapp2.1\Microservice.deps.json
+C:\Users\nafiz.rifat\Microservice\Microservice\bin\Debug\netcoreapp2.1\Microservice.runtimeconfig.json
+C:\Users\nafiz.rifat\Microservice\Microservice\bin\Debug\netcoreapp2.1\Microservice.runtimeconfig.dev.json
+C:\Users\nafiz.rifat\Microservice\Microservice\bin\Debug\netcoreapp2.1\Microservice.dll
+C:\Users\nafiz.rifat\Microservice\Microservice\bin\Debug\netcoreapp2.1\Microservice.pdb
+C:\Users\nafiz.rifat\Microservice\Microservice\obj\Debug\netcoreapp2.1\Microservice.RazorAssemblyInfo.cache
+C:\Users\nafiz.rifat\Microservice\Microservice\obj\Debug\netcoreapp2.1\Microservice.RazorAssemblyInfo.cs
+C:\Users\nafiz.rifat\Microservice\Microservice\obj\Debug\netcoreapp2.1\Microservice.RazorTargetAssemblyInfo.cache
+C:\Users\nafiz.rifat\Microservice\Microservice\obj\Debug\netcoreapp2.1\Microservice.dll
+C:\Users\nafiz.rifat\Microservice\Microservice\obj\Debug\netcoreapp2.1\Microservice.pdb
+C:\Users\nafiz.rifat\Microservice\Microservice\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\nafiz.rifat\Microservice\Microservice\obj\Debug\netcoreapp2.1\Microservice.csprojAssemblyReference.cache
